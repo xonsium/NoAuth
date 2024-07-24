@@ -10,6 +10,15 @@ python3 demo.py
 ## Installation
 Simply download and add the noauth.py file to your project and use it. No external installation required.
 
+* Download it via wget
+```sh
+wget https://raw.githubusercontent.com/xonsium/NoAuth/master/noauth.py
+```
+* Download via curl
+```sh
+curl -O https://raw.githubusercontent.com/xonsium/NoAuth/master/noauth.py
+```
+
 ## Usage
 NoAuth is built with core python libraries.
 
